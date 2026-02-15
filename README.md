@@ -1,1 +1,9 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=zoya-Heyan&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoya-Heyan&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoya-Heyan&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zoya-Heyan&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoya-Heyan&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zoya-Heyan&theme=aura_dark&utcOffset=8)
